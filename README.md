@@ -40,3 +40,7 @@ The project covers the following areas based on the dataset:
 1.  Ensure you have the required libraries installed (`pandas`, `matplotlib`, `seaborn`).
 2.  Open `health-data-description.ipynb` in Jupyter Notebook or JupyterLab.
 3.  Run the cells to reproduce the analysis and generate the plots.
+
+## Presentation
+
+The presentation files can be found in [presentation](presentation/). The presentation was created using Google Slides and can be accessed in the link provided in the [public links](presentation/public%20links.txt) file. The link file has a link to Google Slides and Microsoft Powerpoint. There is also a PDF version of the presentation in the same directory as well as a powerpoint version of the presentation.
